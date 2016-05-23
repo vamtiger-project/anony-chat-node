@@ -1,5 +1,6 @@
 bower_components
 node_modules
+!vamtiger-chat/node_modules
 .git
 .hg
 .svn
